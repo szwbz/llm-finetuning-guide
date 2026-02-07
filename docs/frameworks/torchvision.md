@@ -2,7 +2,7 @@
 
 ## Frameworks Overview
 
-torchvision is a popular computer vision library for PyTorch that provides datasets, model architectures, and image transformations. Current version: 0.17.0
+torchvision is a popular computer vision library for PyTorch that provides datasets, model architectures, and image transformations. Current version: 0.25.0 (Released: 2026-01-06)
 
 ### Key Features
 - Pre-trained models (ResNet, EfficientNet, Vision Transformer)
